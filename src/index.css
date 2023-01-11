@@ -1,0 +1,191 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+.body{
+  background:var(--background-color);
+  color: var(--text-color);
+  font-weight: var(--font-weight);
+  transition: background 0.3s ease-in-out, color 0.6s ease-in-out;
+    /* color:rgb(20, 3, 47) */
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* dark Mood */
+
+:root {
+  --blue: rgb(12, 3, 26);
+  --white: rgb(236, 236, 236);
+
+}
+body.light {
+  --background-color: var(--white);
+  --text-color: var(--blue);
+  --font-weight: 400;
+  --background-icon:transparent url("./images/icon/sunny.png") no-repeat center;
+  --nav-bar:rgb(236, 236, 236);
+
+  --card-body:#ffff
+}
+
+body.dark {
+  --background-color: var(--blue) !important;
+  --text-color: var(--white);
+  --font-weight: 500;
+  --background-icon:transparent url("./images/icon/moon.png") no-repeat center;
+  --nav-bar:#14032f;
+
+  --card-body:rgb(34, 2, 86);
+}
+#darkMode {
+  background: var(--background-icon);
+  background-size: 30px 30px;
+  width: 45px;
+  height: 45px;
+  /* filter: grayscale(100%); */
+  border: none;
+  border-radius: 50%;
+  transition: background-color 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.nav-bar{
+  background-color: var(--nav-bar);
+}
+.navbar-offcanvas{
+  background-color: var(--nav-bar) !important;
+}
+.nav-toggle button span{
+  color:#0067A0 !important;
+}
+.nav-item{
+color:var(--text-color)!important;
+}
+
+.nav-icon{
+  color:var(--text-color)!important;
+}
+/* #darkMode:hover,
+#darkMode:focus {
+  filter: none;
+  background-color: black;
+  cursor: pointer;
+} */
+
+/* #darkMode.clicked {
+  filter: none !important;
+  background-color: black;
+} */
+
+/* #image {
+  width: 100%;
+  height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: background-image 0.7s ease-in-out;
+  background-image: var(--image);
+} */
+/* --------------- */
+.swiper {
+  width: 100% !important;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: var(--background-color);
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+/* product-card */
+.product-card{
+  z-index: 1;
+
+}
+.card:hover .product-card{
+   opacity: .5;
+   transition: .5s;
+}
+
+.card:hover .card-title{
+  opacity: .5;
+  transition: .5s;
+}
+.add-to-cart{
+  background-color: #1C6EA4;
+  color:#fff;
+  text-align:center;
+  border-radius: 40px;
+  width: 7rem;
+  padding: .3rem;
+  margin: auto;
+  transition: all ease-in-out .5s;
+  z-index: 3;
+  opacity: 0;
+  cursor: pointer;
+}
+.add-to-cart:hover{
+  background: transparent;
+  border: 1px solid #1C6EA4;
+  color: #1C6EA4;
+}
+.card:hover .add-to-cart{
+  opacity: 1;
+  transform: translate(0px, -160px);
+}
+
+.card-body{
+  background-color: var(--nav-bar);
+}
+
+/* about-card */
+.about-card{
+  transition: all ease-in-out .5s;
+}
+.about-card:hover{
+  border: 3px solid  #0067A0  !important;
+  transform: translateY(-20px);
+  margin-bottom: 40px!important;
+}
+
+.total{
+  margin-bottom: 15vh !important;
+}
+
+footer{
+
+  margin-bottom: 0;
+}

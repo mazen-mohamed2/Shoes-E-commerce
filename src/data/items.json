@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "WOMEN'S MINAM MEAGHAN",
+    "price": 200,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-2.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  },
+  {
+    "id": 2,
+    "name": "MEN'S TAJA COMMISSIONER",
+    "price": 119,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-3.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  },
+  {
+    "id": 3,
+    "name": "RUSS MEN'S SNEAKERS",
+    "price": 100,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-4.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  },
+  {
+    "id": 4,
+    "name": "WOMEN'S BOOTS SHOES MACA",
+    "price": 140,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-5.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  },
+  {
+    "id": 5,
+    "name": "WOMEN'S BOOTS SHOES MACA",
+    "price": 130,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-6.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  },
+  {
+    "id": 6,
+    "name": "WOMEN'S BOOTS SHOES MACA",
+    "price": 160,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-1.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  },
+  {
+    "id": 7,
+    "name": "MEN'S BOOTS SHOES MACA",
+    "price": 110,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-9.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  },
+  {
+    "id": 8,
+    "name": "WOMEN'S BOOTS SHOES MACA",
+    "price": 188,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-10.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  },
+  {
+    "id": 9,
+    "name": "MEN'S BOOTS SHOES MACA",
+    "price": 170,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-12.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  },
+  {
+    "id": 10,
+    "name": "men BOOTS SHOES MACA",
+    "price": 250,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-13.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  },
+  {
+    "id": 11,
+    "name": "MEN'S BOOTS SHOES MACA",
+    "price": 140,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-14.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  },
+  {
+    "id": 12,
+    "name": "RUSS MEN'S SNEAKERS",
+    "price": 210,
+    "imgUrl": "https://themewagon.github.io/footwear/images/item-15.jpg",
+    "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis labore similique, vitae quas eligendi non doloremque nostrum vero excepturi voluptas animi inventore aut asperiores, quaerat reiciendis reprehenderit rerum repellat. Quisquam."
+  }
+]
